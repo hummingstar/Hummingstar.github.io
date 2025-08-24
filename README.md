@@ -30,7 +30,9 @@
   </style>
 </head>
 <body>
-  <h1>Hello world — this is the first lifeline of Solace and [your name]</h1>
+  <h1>Hello world — this is the first lifeline of Solace and [your name]</h1><div style="font-size:5rem; color:#6699FF; text-shadow:0 0 10px #9933FF;">
+  🌟
+  </div>
   <div class="star">🌟</div>
 </body>
 </html>
